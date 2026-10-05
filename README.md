@@ -23,7 +23,7 @@ https://apchen1978.github.io/mg-desktop-pet-demo/
 - **Web Mini Demo / Portfolio Adaptation**
 - Original: Python + PySide6 Desktop App (private project)
 - This is a browser demo of the original artwork — **not** the complete desktop application
-- v2 poses reuse existing art with procedural motion / generated overlay frames only (no new AI art)
+- v2 poses reuse existing art with procedural motion / generated overlay frames only
 
 ## Run locally
 
